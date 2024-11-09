@@ -3,12 +3,8 @@
 int choice;
 bool shutdown = false;
 
-void load() {
-	cout << "Allocating names..." << endl;
-	appendFirstName(); //needed for assignment four and nine
 
-}
-
+/*
 int main() {
 	load();
 	cout << "Welcome to the main assignment hub!\n" << endl;
@@ -80,6 +76,7 @@ int main() {
 	return 0;
 }
 
+
 void pauseExecution() {
 #ifdef _WIN32
 	system("pause");
@@ -92,3 +89,4 @@ void pauseExecution() {
 	system("clear");
 #endif
 }
+*/

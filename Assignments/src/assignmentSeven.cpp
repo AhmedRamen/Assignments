@@ -17,3 +17,7 @@ void assigmentSeven() {
 	cout << endl;
 	cout << "The first person you inputted is: " << clients[0] << endl;
 }
+
+int main() {
+	assigmentSeven();
+}

@@ -8,3 +8,7 @@ void assignmentEleven() {
 	if (a > b) cout << a;
 	else cout << b;
 }
+
+int main() {
+	assignmentEleven();
+}

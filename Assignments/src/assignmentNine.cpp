@@ -65,3 +65,8 @@ char yesOrNo() {
 	}
 	return yesno;
 }
+
+int main() {
+	load();
+	assignmentNine();
+}

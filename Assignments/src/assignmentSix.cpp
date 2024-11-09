@@ -21,3 +21,7 @@ void assignmentSix() {
 	cin >> zipcode;
 	cout << "So you live in: " + street + " " + city + ", " << state << " " << zipcode;
 }
+
+int main() {
+	assignmentSix();
+}

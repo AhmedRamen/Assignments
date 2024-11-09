@@ -12,8 +12,6 @@ using namespace std;
 
 static string filler;
 
-//Main
-void load();
 void pauseExecution();
 
 //assignment three
@@ -50,3 +48,9 @@ double setPercentage();
 
 //assignment eleven
 void assignmentEleven();
+
+//Main
+inline void load() {
+	cout << "Allocating names..." << endl;
+	appendFirstName(); //needed for assignment four and nine
+}

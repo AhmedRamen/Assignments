@@ -22,3 +22,7 @@ double setPercentage() {
 	else
 		return percentage = 0.20;
 }
+
+int main() {
+	assignmentTen();
+}
